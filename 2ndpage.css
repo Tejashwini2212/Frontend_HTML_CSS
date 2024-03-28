@@ -1,0 +1,23 @@
+.a2{
+    margin: 20px 50px;
+   display: flex;
+}
+.a3{
+    background-color: #f77171;
+    width: 400px;
+    height: 250px;
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.main{
+    margin-top: 20px;
+    background-color:  #ffdbe7;
+    height: 500px;
+    
+}
+.p1{
+    margin-left: 20px;
+}
+.p2{
+    display: flex;
+}
