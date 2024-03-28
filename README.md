@@ -1,2 +1,1 @@
-# Frontend_HTML_CSS
-Assignments
+# Frontend_HTML_CSS Assignments
